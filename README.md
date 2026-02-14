@@ -1,5 +1,9 @@
 # @helpers4
 
+> [!IMPORTANT]
+> This repository contains Helpers4 v1 and will be archived.
+> Starting with v2, Helpers4 is now maintained in the monorepo: https://github.com/helpers4/typescript
+
 The `@helpers4` are a collection of helper functions for use in any project, whatever the framework.
 Every helper is a standalone module and supports tree-shaking, so you can use only the helpers you need without embedding the whole library.
 
